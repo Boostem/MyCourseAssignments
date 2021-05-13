@@ -4,7 +4,6 @@ Hello, I assume youre reading this because you are interested in my courses ive 
 projects with.
 
 * Computer Organization 
-* Cyber-Physical Systems Security 
 * Data Structures and Algorithms I, II
 * Operating Systems 
 * Programming Languages 
