@@ -12,4 +12,4 @@ projects with.
 * Unix Systems Programming (C)
 
 Due to people most likely using them for their own gain: if you are interested in seeing my work as an interviewer, coworker, or a professional, 
-**PLEASE MAKE AN ISSUE** explaining who you are, the company, our relationship and I will add you to a collaborator to the private class repo I have for the class.
+**PLEASE MAKE AN ISSUE** explaining who you are, the company, our relationship and I will add you to a collaborator to the private class repo I have for the class you are requesting.
